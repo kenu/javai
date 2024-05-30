@@ -1,4 +1,4 @@
-package javai;
+package javai.model;
 
 public class Genesis implements Car {
 	private int speed;

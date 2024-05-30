@@ -1,5 +1,11 @@
 package javai;
 
+import javai.model.Benz;
+import javai.model.Car;
+import javai.model.Genesis;
+import javai.model.Lambor;
+import javai.model.Porche;
+
 public class Drive {
 	public static void main(String[] args) {
 		extracted(new Lambor());

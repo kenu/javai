@@ -1,4 +1,4 @@
-package javai;
+package javai.model;
 
 public interface Car {
 

@@ -1,6 +1,6 @@
-package javai;
+package javai.model;
 
-public class Lambor implements Car {
+public class Benz implements Car {
 	private int speed;
 
 	public int getSpeed() {
